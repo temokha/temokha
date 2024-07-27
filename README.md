@@ -1,10 +1,6 @@
 # 👋 Всех приветствую! Меня зовут Тимофей
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" height="150">
-</p>
-
-<p align="center">
   <b>Начинающий BI-аналитик</b>
 </p>
 
