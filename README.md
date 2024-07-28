@@ -24,12 +24,12 @@ I invite you to check out my project on online store sales analytics, where I us
 
 ## 📝 Проекты | Projects
 
-- 📊 Soon.
+- 📊 Soon
 
-## 🔧 Мой стек
+## 🔧 Стек | Stack
 
-- **Инструменты:** Power BI, Yandex DataLens
-- **Базы данных:** MySQL
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60">
+
 
 
 <p align="center">
