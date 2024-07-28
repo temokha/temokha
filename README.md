@@ -32,4 +32,10 @@ I invite you to check out my project on online store sales analytics, where I us
 - **Базы данных (databases):** MySQL
 - **Изучаемое (learning):** Python (NumPy, Pandas, Matplotlib)
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=temokha&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=temokha&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+</p>
+
 
