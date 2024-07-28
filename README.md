@@ -1,13 +1,6 @@
 # 👋 Всем привет | Hi there
 
 <p align="center">
-  <span style="display: inline-block; vertical-align: middle;">👋 Всем привет | Hi there</span>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=temokha&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=temokha&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</p>
-
-<p align="center">
   <b>BI-аналитик | BI analyst </b>
 </p>
 
@@ -38,6 +31,13 @@ I invite you to check out my project on online store sales analytics, where I us
 - **Инструменты (tools):** Power BI, Yandex DataLens
 - **Базы данных (databases):** MySQL
 - **Изучаемое (learning):** Python (NumPy, Pandas, Matplotlib)
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=temokha&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=temokha&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+</p>
+
 
 
 
