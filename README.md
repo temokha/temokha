@@ -21,9 +21,6 @@ Glad to see you here! My name is Timofey. I am looking for an opportunity to sta
 
 I invite you to check out my project on online store sales analytics, where I used the SQL + PowerBI stack.
 
-- 🌍 Я нахожусь в Челябинске, Россия
-- 📫 Свяжитесь со мной по [email](mailto:lts-2003@mail.ru) или в [Telegram](https://t.me/temokha)
-
 ## 🔧 Мой стек
 
 - **Инструменты:** Power BI, Yandex DataLens
