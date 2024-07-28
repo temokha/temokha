@@ -1,6 +1,9 @@
-# 👋 Всем привет | Hi there <p align="center">
+# 👋 Всем привет | Hi there
+
+<p align="center">
+  <span style="display: inline-block; vertical-align: middle;">👋 Всем привет | Hi there</span>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=temokha&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=temokha&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=temokha&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </p>
 
