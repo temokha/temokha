@@ -22,14 +22,15 @@ Glad to see you here! My name is Timofey. I am looking for an opportunity to sta
 
 I invite you to check out my project on online store sales analytics, where I used the SQL + PowerBI stack.
 
+## 📝 Проекты | Projects
+
+- 📊 Soon.
+
 ## 🔧 Мой стек
 
 - **Инструменты:** Power BI, Yandex DataLens
 - **Базы данных:** MySQL
 
-## 📝 Мои проекты
-
-Скоро.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contact-Email-%23ff69b4" />
