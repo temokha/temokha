@@ -28,7 +28,7 @@ I invite you to check out my project on online store sales analytics, where I us
 
 ## 🔧 Стек | Stack
 
-**Инструменты:** Power BI, Yandex DataLens
+- **Инструменты:** Power BI, Yandex DataLens
 - **Базы данных:** MySQL
 - **Изучаемое:** Python (NumPy, Pandas, Matplotlib)
 
