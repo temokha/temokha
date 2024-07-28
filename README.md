@@ -27,12 +27,10 @@ I invite you to check out my project on online store sales analytics, where I us
 - 📊 Soon
 
 ## 🔧 Стек | Stack
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="120">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="100">
 
-<img src="https://upload.vectorlogo.zone/logos/datalenstech/images/596de9f1-50f0-4aaf-b31f-9d02622dbd8e.svg" width="100">
-
+**Инструменты:** Power BI, Yandex DataLens
+- **Базы данных:** MySQL
+- **Изучаемое:** Python (NumPy, Pandas, Matplotlib)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contact-Email-%23ff69b4" />
