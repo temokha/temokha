@@ -28,7 +28,8 @@ I invite you to check out my project on online store sales analytics, where I us
 
 ## 🔧 Стек | Stack
 
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="60">
+
 
 
 
