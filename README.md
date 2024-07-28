@@ -1,4 +1,4 @@
-# 👋 Hi there | Всем привет
+# 👋 Всем привет | Hi there
 
 <p align="center">
   <b>BI-аналитик | BI analyst </b>
