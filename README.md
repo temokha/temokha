@@ -1,7 +1,7 @@
 # 👋 Hi there | Всем привет
 
 <p align="center">
-  <b>BI-аналитик | BI Analyst </b>
+  <b>BI-аналитик | BI analyst </b>
 </p>
 
 <p align="center">
