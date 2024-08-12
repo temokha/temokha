@@ -28,7 +28,7 @@ I invite you to check out my [project](https://github.com/temokha/Online_Shop_Sa
 
 ## 🔧 Стек | Stack
 
-- **Инструменты (tools):** SQL, Power BI, Power Query, DAX Yandex DataLens, Git
+- **Инструменты (tools):** SQL, Power BI, Power Query, DAX, Yandex DataLens, Git
 - **Базы данных (databases):** MySQL
 - **Другое (other):** Jira, Scrum
 - **Изучаемое (learning):** Python (NumPy, Pandas, Matplotlib)
