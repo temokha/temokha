@@ -25,6 +25,7 @@ I invite you to check out my [project](https://github.com/temokha/Online_Shop_Sa
 ## 📝 Проекты | Projects
 
 - 📊 [Анализ продаж онлайн-магазина | Online shop sales analysis](https://github.com/temokha/Online_Shop_Sales_Project-SQL-PowerBI-)
+- 📈 [RFM-анализ | RFM analysis](https://github.com/temokha/RFM-analysis)
 
 ## 🔧 Стек | Stack
 
