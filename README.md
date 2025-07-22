@@ -13,11 +13,11 @@
 
 ## Обо мне | About me
 
-Рад вас видеть тут! Меня зовут Тимофей. Меня увлекает агрегация данных, создание четких и информативных отчетов. Обладаю опытом работы с Power BI и Yandex DataLens, что позволяет мне разрабатывать качественные визуализации и аналитические дашборды. Также владею навыками работы с SQL для эффективного извлечения и анализа данных. В данный момент изучаю Python, а конкретно библиотеки NumPy, Pandas, Matplotlib. Готов к вызовам и стремлюсь к профессиональному росту в области аналитики. 
+Рад вас видеть здесь! Меня зовут Тимофей. Меня увлекает работа с данными — от их агрегации до создания наглядных и информативных отчётов. Обладаю опытом разработки аналитических дашбордов в Power BI и Yandex DataLens, а также уверенно владею SQL. Знаю Python и активно использую его библиотеки для анализа и визуализации данных. Также обладаю базовыми знаниями статистики, что помогает глубже интерпретировать результаты. Открыт новым задачам и стремлюсь к профессиональному росту в сфере аналитики.
 
 
 
-Glad to see you here! My name is Timofey. I am passionate about data aggregation and creating clear and informative reports. I have experience working with Power BI and Yandex DataLens, which allows me to develop high-quality visualizations and analytical dashboards. I also have skills in SQL for efficient data extraction and analysis. Currently, I am studying Python, specifically the NumPy, Pandas, and Matplotlib libraries. I am ready for challenges and strive for professional growth in the field of analytics.
+Glad to see you here! My name is Timofey. I’m passionate about working with data — from aggregation to creating clear and informative reports. I have experience developing analytical dashboards in Power BI and Yandex DataLens, and I’m confident in using SQL. I know Python and actively use its libraries for data analysis and visualization. I also have a basic knowledge of statistics, which helps me interpret results more deeply. I’m open to new challenges and strive for professional growth in the field of analytics.
 
 
 ## 📝 Проекты | Projects
@@ -27,10 +27,9 @@ Glad to see you here! My name is Timofey. I am passionate about data aggregation
 
 ## 🔧 Стек | Stack
 
-- **Инструменты (tools):** SQL, Power BI, Power Query, DAX, Yandex DataLens, Git
+- **Инструменты (tools):** SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy), Power BI, Power Query, DAX, Yandex DataLens, Git
 - **Базы данных (databases):** MySQL
 - **Другое (other):** Jira, Scrum
-- **Изучаемое (learning):** Python (NumPy, Pandas, Matplotlib)
 
 
 
