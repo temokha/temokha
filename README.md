@@ -24,6 +24,7 @@ Glad to see you here! My name is Timofey. I’m passionate about working with da
 
 - 📊 [Анализ продаж онлайн-магазина | Online shop sales analysis](https://github.com/temokha/Online_Shop_Sales_Project-SQL-PowerBI-) (SQL + PowerBI)
 - 📈 [RFM-анализ | RFM analysis](https://github.com/temokha/RFM-analysis) (SQL + PowerBI)
+- 🧪 [Анализ рынка ноутбуков | Laptop Price Analysis](https://github.com/temokha/laptops_analysis_) (Python)
 
 ## 🔧 Стек | Stack
 
