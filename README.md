@@ -20,7 +20,7 @@
 
 ## 🔧 Стек | Stack
 
-- **Инструменты (tools):** SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy), PyCharm, Power BI, Power Query, DAX, Yandex DataLens, Metabase, Apache Airflow, Docker Compose, Git
+- **Инструменты (tools):** SQL, Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy), PyCharm, Power BI, Power Query, DAX, Yandex DataLens, Metabase, Apache Airflow, Docker, Git
 - **Базы данных (databases):** MySQL, PostgreSQL
 - **Другое (other):** Jira, Scrum
 
